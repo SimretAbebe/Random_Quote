@@ -1,6 +1,7 @@
 # Random Quote API 🇪🇹
 
-A simple FastAPI-based API that serves inspirational quotes and Ethiopian proverbs.
+A simple FastAPI-based API that serves inspirational quotes .
+Test by seraching /quotes/random .
 
 ## Features
 - Get a random quote
@@ -17,3 +18,4 @@ A simple FastAPI-based API that serves inspirational quotes and Ethiopian prover
 ## Run Locally
 ```bash
 uv run uvicorn main:app --reload
+
